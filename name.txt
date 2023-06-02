@@ -1,0 +1,10 @@
+ls - gives which directory we are in
+mkdir <name> - making directory 
+cd <name> - to open the directory
+git add <Name> - to add to commit 
+git status - to check status of directories
+git log - to see comments
+git commit -m "comment" - to add comment 
+-rf <Name> -to remove a file
+just checking 
+
